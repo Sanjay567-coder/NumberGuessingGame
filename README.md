@@ -1,2 +1,2 @@
-# NumberGuessingNmae
+# NumberGuessingName
 Guess the no which the computer has tought
